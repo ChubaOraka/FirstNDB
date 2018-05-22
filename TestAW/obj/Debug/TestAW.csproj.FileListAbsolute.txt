@@ -1,0 +1,9 @@
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestAW\bin\Debug\TestAW.exe.config
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestAW\bin\Debug\TestAW.exe
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestAW\bin\Debug\TestAW.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestAW\bin\Debug\TechSuperHeroesLightningData.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestAW\bin\Debug\TechSuperHeroesLightningData.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestAW\obj\Debug\TestAW.csprojResolveAssemblyReference.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestAW\obj\Debug\TestAW.csproj.CoreCompileInputs.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestAW\obj\Debug\TestAW.exe
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestAW\obj\Debug\TestAW.pdb

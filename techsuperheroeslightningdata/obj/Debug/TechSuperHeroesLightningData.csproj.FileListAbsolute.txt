@@ -1,0 +1,19 @@
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\TechSuperHeroesLightningData.dll
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\TechSuperHeroesLightningData.pdb
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\Arc.Common.dll
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\Arc.Common.pdb
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\ARCNET20\TechSuperHeroesLightningData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\ARCNET20\TechSuperHeroesLightningData\obj\Debug\TechSuperHeroesLightningData.csprojResolveAssemblyReference.cache
+C:\ARCNET20\TechSuperHeroesLightningData\obj\Debug\TechSuperHeroesLightningData.dll
+C:\ARCNET20\TechSuperHeroesLightningData\obj\Debug\TechSuperHeroesLightningData.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\obj\Debug\TechSuperHeroesLightningData.csproj.CoreCompileInputs.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\obj\Debug\TechSuperHeroesLightningData.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\obj\Debug\TechSuperHeroesLightningData.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\bin\Debug\TechSuperHeroesLightningData.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\bin\Debug\TechSuperHeroesLightningData.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\obj\Debug\TechSuperHeroesLightningData.csprojResolveAssemblyReference.cache

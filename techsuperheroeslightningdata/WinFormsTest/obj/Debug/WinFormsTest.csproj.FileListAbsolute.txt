@@ -1,0 +1,12 @@
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\bin\Debug\WinFormsTest.exe.config
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\bin\Debug\WinFormsTest.exe
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\bin\Debug\WinFormsTest.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\bin\Debug\TechSuperHeroesLightningData.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\bin\Debug\TechSuperHeroesLightningData.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\obj\Debug\WinFormsTest.csprojResolveAssemblyReference.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\obj\Debug\WinFormsTest.Form1.resources
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\obj\Debug\WinFormsTest.Properties.Resources.resources
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\obj\Debug\WinFormsTest.csproj.GenerateResource.Cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\obj\Debug\WinFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\obj\Debug\WinFormsTest.exe
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TechSuperHeroesLightningData\WinFormsTest\obj\Debug\WinFormsTest.pdb

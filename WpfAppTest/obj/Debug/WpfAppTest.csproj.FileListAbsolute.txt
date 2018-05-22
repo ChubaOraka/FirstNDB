@@ -1,0 +1,15 @@
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\bin\Debug\WpfAppTest.exe.config
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\bin\Debug\WpfAppTest.exe
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\bin\Debug\WpfAppTest.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\WpfAppTest.csprojResolveAssemblyReference.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\MainWindow.g.cs
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\App.g.cs
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\WpfAppTest_MarkupCompile.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\WpfAppTest_MarkupCompile.lref
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\MainWindow.baml
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\WpfAppTest.g.resources
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\WpfAppTest.Properties.Resources.resources
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\WpfAppTest.csproj.GenerateResource.Cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\WpfAppTest.csproj.CoreCompileInputs.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\WpfAppTest.exe
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\WpfAppTest\obj\Debug\WpfAppTest.pdb

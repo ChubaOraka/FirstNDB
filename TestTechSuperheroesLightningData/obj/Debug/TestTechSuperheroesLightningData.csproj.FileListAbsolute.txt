@@ -1,0 +1,16 @@
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\TestTechSuperheroesLightningData.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\TestTechSuperheroesLightningData.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\TechSuperHeroesLightningData.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\TechSuperHeroesLightningData.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\obj\Debug\TestTechSuperheroesLightningData.csprojResolveAssemblyReference.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\obj\Debug\TestTechSuperheroesLightningData.csproj.CoreCompileInputs.cache
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\obj\Debug\TestTechSuperheroesLightningData.dll
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\obj\Debug\TestTechSuperheroesLightningData.pdb
+C:\Users\charl\Dropbox (Personal)\Data-DropBox\TestTechSuperheroesLightningData\bin\Debug\TestTechSuperheroesLightningData.dll.config
